@@ -6,7 +6,7 @@
  */
 return [
     'DOWNLOAD_URL'         =>    'http://192.168.1.233/makesCanton',
-    'ENTRANCE'			   =>    'd:\www\makesCanton\index.php',
+    'ENTRANCE'			   =>    'd:\www\BPMF2.0\Api\makesCanton\index.php',
     'MY_HTTP_PATH'         =>    'http://192.168.1.233/makesCanton',
-    'SAVE_PATH'            =>    'd:/www/makesCanton',
+    'SAVE_PATH'            =>    'd:/www/BPMF2.0/Api/makesCanton',
 ];

@@ -1,6 +1,6 @@
 <?php
 return array(
-    'LOAD_EXT_CONFIG'       => 'db,default_config,auth_conf,routes,path_conf',
+    'LOAD_EXT_CONFIG'       => 'db,default_config,auth_conf,router,path_conf',
     //允许访问列表
     'MODULE_ALLOW_LIST'     => array('Home','Admin','User','Opera'),
     //默认模块

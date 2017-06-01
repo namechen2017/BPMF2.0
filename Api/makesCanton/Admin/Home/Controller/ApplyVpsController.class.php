@@ -5,7 +5,7 @@ namespace Home\Controller;
 use Think\Controller;
 
 /**
- * 优惠券控制器
+ * VPS控制器
  * @author cxl,lrf
  * @modify 2016/12/22
  */
